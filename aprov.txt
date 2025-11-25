@@ -1,10 +1,8 @@
 ARNOLD-XD-InfinixX693GLInfinixX6931 | lewani | 3-days | 2025-11-28
-ARNOLD-XD-realmeRMX3381RE58A0L113TP | muzib khan | lifetime
 ARNOLD-XD-InfinixX6837OPInfinixX683 | abir rahman | 3-days | 2025-11-28
 ARNOLD-XD-InfinixH626InfinixX650C9P | m raza | 30-days | 2025-12-25
 ARNOLD-XD-NothingTetrisINDTetris15A | mohd kaif | 3-days | 2025-11-28
 ARNOLD-XD-vivoV2422iV242214UP1A2310 | abhi | 7-days | 2025-12-02
-ARNOLD-XD-realmeRMX3381RE58A0L113TP | mujib khan | lifetim
 ARNOLD-XD-vivoV2315TV231515AP3A2409 | sakib | 3-days | 2025-11-28
 ARNOLD-XD-Xiaomipolarispolaris800OP | jeff | 30-days | 2025-12-25
 ARNOLD-XD-OPPOCPH2603INOP5A0BL115AP | varun | 3-days | 2025-11-28
@@ -87,3 +85,4 @@ ARNOLD-XD-samsunga5y17lteskta5y17lt | ehsan | 3-days | 2025-11-28
 ARNOLD-XD-OPPOCPH1979OP48A110QP1A19 | muneeb | 30-days | 2025-12-25
 ARNOLD-XD-OPPOCPH2375OP5312L113TP1A | ahmad | 3-days | 2025-11-28
 ARNOLD-XD-vivoPD2047PD204713TP1A220 | aminu | 3-days | 2025-11-28
+ARNOLD-XD-realmeRMX3381RE58A0L113TP | mujib ullah | lifetime
