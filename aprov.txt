@@ -173,3 +173,4 @@ ARNOLD-XD-InfinixX6725BOPInfinixX67 | ariyan | 3-days | 2025-11-29
 ARNOLD-XD-TECNOCK8nGLTECNOCK8n14UP1 | chirag | lifetime
 ARNOLD-XD-vivoV2434V243415AP3A24090 | md.abdur razzak | lifetime
 ARNOLD-XD-HUAWEIVOGL29HWVOG10HUAWEI | ramjan | 30-days | 2025-12-26
+ARNOLD-XD-vivoV2434V243415AP3A24090 | md.abdur razzak | lifetime
