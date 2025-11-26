@@ -164,3 +164,4 @@ ARNOLD-XD-OPPOCPH1979OP48A110QP1A19 | muneeb | 30-days | 2025-12-26
 ARNOLD-XD-vivo2037i203713TP1A220624 | shivam kumar | 3-days | 2025-11-29
 ARNOLD-XD-NothingTetrisINDTetris15A | mohd kaif | 3-days | 2025-11-29
 ARNOLD-XD-Redmitidesrglobaltides15A | ariful islam | lifetime
+ARNOLD-XD-realmeRMX2030RMX203010QKQ | hasan | life time
