@@ -205,3 +205,4 @@ ARNOLD-XD-vivoV2204V220412SP1A21081 |  | lifetime
 ARNOLD-XD-TECNOKJ7OPTECNOKJ714UP1A2 | ikram | 30-days | 2025-12-27
 ARNOLD-XD-vivoV2342V234215AP3A24090 | zahid | lifetime
 ARNOLD-XD-samsunga71xskta71x13TP1A2 | mumin | 30-days | 2025-12-27
+ARNOLD-XD-OnePlusOnePlus5OnePlus59P | rambabu | 7-days | 2025-12-04
