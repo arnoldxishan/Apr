@@ -224,3 +224,4 @@ ARNOLD-XD-vivo2116211613TP1A2206240 | asad | 30-days | 2025-12-27
 ARNOLD-XD-realmeRMX3869INRE5C86L115 | aman khan | 30-days | 2025-12-27
 ARNOLD-XD-InfinixH626InfinixX650C9P | hassan-tricker | lifetime
 ARNOLD-XD-InfinixX665EGLInfinixX665 | taksun | 3-days | 2025-11-30
+ARNOLD-XD-InfinixH627InfinixX652B9P | dani | lifetime
