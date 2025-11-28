@@ -274,3 +274,8 @@ ARNOLD-XD-ItelS665LGLitelS665L12SP1 | karo | lifetime
 ARNOLD-XD-OPPOCPH2641OP5B16L114UP1A | ablaj | 30-days | 2025-12-28
 ARNOLD-XD-Redmiearthglobalearth14UP | sher ali | 30-days | 2025-12-27
 ARNOLD-XD-OPPOCPH1979OP48A110QP1A19 | muneeb | 30-days | 2025-12-28
+ARNOLD-XD-ItelS665LGLitelS665L12SP1 | karo | lifetime
+ARNOLD-XD-TECNOCI6GLTECNOCI613TP1A2 | yowyow | lifetime
+
+ARNOLD-XD-Redmipondglobalpond14UP1A |  | 30-days | 2025-12-28
+ARNOLD-XD-POCOserenitypinserenity15 | neha | 3-days | 2025-12-01
