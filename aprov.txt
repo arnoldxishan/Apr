@@ -326,3 +326,4 @@ ARNOLD-XD-InfinixX6833BGLInfinixX68 | farhan | 30-days | 2025-12-29
 ARNOLD-XD-TECNOCH7OPTECNOCH712SP1A2 | aman khan | 30-days | 2025-12-29
 ARNOLD-XD-WALTONNEXGN6NEXGN612SP1A2 | mahir | lifetime
 ARNOLD-XD-Redmirubyruby14UP1A231005 | luffy | lifetime
+ARNOLD-XD-vivo2037i203713TP1A220624 | shivam kumar | lifetime
