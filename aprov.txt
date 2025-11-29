@@ -322,3 +322,4 @@ ARNOLD-XD-InfinixX6725BOPInfinixX67 | ariyan | 3-days | 2025-12-02
 ARNOLD-XD-Redmipondglobalpond14UP1A |  | 30-days | 2025-12-29
 ARNOLD-XD-TECNOKD7GLTECNOKD710QP1A1 | coderscullrx | 3-days | 2025-12-02
 ARNOLD-XD-realmeRMX3241RE513CL113TP | rana | lifetime
+ARNOLD-XD-InfinixX6833BGLInfinixX68 | farhan | 30-days | 2025-12-29
