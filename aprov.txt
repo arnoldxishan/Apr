@@ -358,3 +358,4 @@ ARNOLD-XD-InfinixX6833BGLInfinixX68 | farhan | 30-days | 2025-12-30
 ARNOLD-XD-Redmifireglobalfire14UP1A | sakirul | 30-days | 2025-12-30
 ARNOLD-XD-POCOvayuglobalvayu12SKQ12 | raees | 30-days | 2025-12-30
 ARNOLD-XD-samsungbeyond2ltexxbeyond | usama | lifetime
+ARNOLD-XD-InfinixX6528OPInfinixX652 | hassan | 30-days | 2025-12-30
