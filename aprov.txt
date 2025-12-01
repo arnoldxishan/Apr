@@ -383,3 +383,4 @@ ARNOLD-XD-realmeRMX3268RED8D711RP1A | shamim | 30-days | 2025-12-31
 ARNOLD-XD-vivo2059i205913TP1A220624 | imran khan | lifetime
 ARNOLD-XD-motorolablackjackreteubla | pip install colorama | 30-days | 2025-12-31
 ARNOLD-XD-realmeRMX3195RMX319513SP1 | hridoy | 30-days | 2025-12-31
+ARNOLD-XD-OPPOCPH2603INOP5A0BL115AP | raman | 3-days | 2025-12-04
