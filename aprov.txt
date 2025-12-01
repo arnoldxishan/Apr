@@ -385,3 +385,4 @@ ARNOLD-XD-motorolablackjackreteubla | pip install colorama | 30-days | 2025-12-3
 ARNOLD-XD-realmeRMX3195RMX319513SP1 | hridoy | 30-days | 2025-12-31
 ARNOLD-XD-OPPOCPH2603INOP5A0BL115AP | raman | 3-days | 2025-12-04
 ARNOLD-XD-Redmitanzaniteglobaltanza | md mihnaj | 3-days | 2025-12-04
+ARNOLD-XD-OPPOCPH2603INOP5A0BL115AP | raman | 30-days | 2025-12-31
