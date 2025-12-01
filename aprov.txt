@@ -387,3 +387,7 @@ ARNOLD-XD-OPPOCPH2603INOP5A0BL115AP | raman | 3-days | 2025-12-04
 ARNOLD-XD-Redmitanzaniteglobaltanza | md mihnaj | 3-days | 2025-12-04
 ARNOLD-XD-OPPOCPH2603INOP5A0BL115AP | raman | 30-days | 2025-12-31
 ARNOLD-XD-Redmibegoniabegonia11RP1A | yousaf | lifetime
+ARNOLD-XD-vivoPD2453PD245315AP3A240 | neloy | 30-days | 2025-12-31
+ARNOLD-XD-POCOvayuglobalvayu12SKQ12 | raees | 30-days | 2025-12-31
+ARNOLD-XD-vivoV2422iV242214UP1A2310 | abhi | 30-days | 2025-12-30
+ARNOLD-XD-InfinixX659BOPInfinixX659 | masroor | 30-days | 2025-12-31
