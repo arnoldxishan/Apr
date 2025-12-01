@@ -393,3 +393,4 @@ ARNOLD-XD-vivoV2422iV242214UP1A2310 | abhi | 30-days | 2025-12-30
 ARNOLD-XD-InfinixX659BOPInfinixX659 | masroor | 30-days | 2025-12-31
 ARNOLD-XD-vivoPD2047PD204713TP1A220 | aminu | 30-days | 2025-12-31
 ARNOLD-XD-samsungbeyond0qltesqbeyon | aminu | 30-days | 2025-12-31
+ARNOLD-XD-TECNOKI5kGLTECNOKI5k12SP1 | naino | lifetime
