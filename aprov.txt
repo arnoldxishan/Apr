@@ -441,3 +441,4 @@ ARNOLD-XD-POCOduchampglobalduchamp1 | abhimanyu | lifetime
 ARNOLD-XD-realmeRMX3195RMX319513SP1 | hridoy | 30-days | 2026-01-01
 ARNOLD-XD-vivoV2443iV243615AP3A2409 | sanju | 30-days | 2026-01-01
 ARNOLD-XD-samsunga16xmnsinsa16xm14U | abu sk | 30-days | 2026-01-01
+ARNOLD-XD-realmeRMX3268RED8D711RP1A | shamim | 30-days | 2026-01-01
