@@ -435,3 +435,4 @@ ARNOLD-XD-OnePlusOnePlus6TOnePlus6T | kong | 30-days | 2026-01-01
 ARNOLD-XD-OnePlusOnePlus6TOnePlus6T | king | 30-days | 2026-01-01
 ARNOLD-XD-realmeRMX3516RE54D8L113TP | imran | 30-days | 2026-01-01
 ARNOLD-XD-Redmikleinglobalklein15AP | alausa | lifetime
+ARNOLD-XD-OPPOCPH2061OP4C77L111RKQ1 | ashley2 | lifetime
