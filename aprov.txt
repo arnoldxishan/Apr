@@ -445,3 +445,4 @@ ARNOLD-XD-realmeRMX3268RED8D711RP1A | shamim | 30-days | 2026-01-01
 ARNOLD-XD-Redmicamellianglobalcamel | sabbir | 30-days | 2026-01-01
 ARNOLD-XD-samsungbeyond1qltesqbeyon | real | 3-days | 2025-12-05
 ARNOLD-XD-Redmiironidglobaliron13TP | 30-days | 2026-01-01
+ARNOLD-XD-vivoV2355iV235515AP3A2409 | rafi | 30-days | 2025-12-31
