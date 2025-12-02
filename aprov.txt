@@ -409,3 +409,4 @@ ARNOLD-XD-Redmigaleglobalgale15AP3A | asif | 30-days | 2025-12-31
 ARNOLD-XD-TECNOKI5kGLTECNOKI5k12SP1 |  | lifetime
 ARNOLD-XD-ItelS665LGLitelS665L12SP1 | karo | 30-days | 2026-01-01
 ARNOLD-XD-TECNOLH8nGLTECNOLH8n14UP1 | muzamil | 3-days | 2025-12-04
+ARNOLD-XD-Redmicurtanacurtana12SKQ1 | susanto | 3-days | 2025-12-05
