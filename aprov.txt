@@ -425,3 +425,4 @@ ARNOLD-XD-Redmicamellianglobalcamel | sabbir | 30-days | 2026-01-01
 ARNOLD-XD-Redmigaleglobalgale15AP3A | asif | 30-days | 2026-01-01
 ARNOLD-XD-vivoV2506iV250615AP3A2409 | affan | 3-days | 2025-12-05
 ARNOLD-XD-ItelS665LGLitelS665L12SP1 | pascal | 3-days | 2025-12-05
+ARNOLD-XD-googleredfinredfin14UP1A2 | prince | 30-days | 2026-01-01
